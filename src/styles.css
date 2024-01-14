@@ -1,0 +1,18 @@
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+  
+  
+
+
+
+  
+  body {
+    background-image: url('assets/imagens/brisa.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+  }
+
+  
